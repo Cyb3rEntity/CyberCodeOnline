@@ -1,15 +1,15 @@
 {
  	"tabs": {
  	 	"inventory": {
- 	 	 	"trans": "Hàng tồn kho",
+ 	 	 	"trans": "Túi đồ",
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
- 	 	 	"trans": "Quest",
+ 	 	 	"trans": "Nhiệm vụ",
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
- 	 	 	"trans": "Trò chuyện",
+ 	 	 	"trans": "Chat",
  	 	 	"eng": "Chat"
  	 	},
  	 	"profile": {
@@ -24,29 +24,29 @@
  	"npc": {
  	 	"unitExchange": {
  	 	 	"name": {
- 	 	 	 	"trans": "ĐƠN VỊ ĐƠN VỊ ARASAKA",
+ 	 	 	 	"trans": "Giao dịch Unit Arasaka",
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Bạn có thể mua các mặt hàng buff toàn cầu ở đây",
+ 	 	 	 	"trans": "Bạn có thể mua các item buff toàn cầu ở đây",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need at least level 5 to access the unit exchange",
+ 	 	 	 	"trans": "Bạn cần lên cấp 5 để vào đây",
  	 	 	 	"eng": "You need to be at least level 5 to access unit exchange"
  	 	 	}
  	 	},
  	 	"cosmetic": {
  	 	 	"name": {
- 	 	 	 	"trans": "Mỹ phẩm cyberalwear",
+ 	 	 	 	"trans": "Mỹ phẩm Cyberwear",
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "If you like the game, please consider a donation :)",
+ 	 	 	 	"trans": "Nếu bạn thích game, hãy cân nhắc việc donate :)",
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need at least level 5 to access the cosmetic merchant",
+ 	 	 	 	"trans": "Bạn cần lên cấp 5 để vào đây",
  	 	 	 	"eng": "You need to be at least level 5 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -62,25 +62,25 @@
  	 	},
  	 	"weaponSmith": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vũ khí Smith",
+ 	 	 	 	"trans": "Thợ chế tạo vũ khí",
  	 	 	 	"eng": "Weapon Smith"
  	 	 	}
  	 	},
  	 	"terminal": {
  	 	 	"name": {
- 	 	 	 	"trans": "Học kỳ",
+ 	 	 	 	"trans": "Terminal",
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force a key for the next area",
+ 	 	 	 	"trans": "Để đi đến vùng tiếp theo, bạn cần dùng Những Mảnh Chìa Khoá Bí Mật, \r\n        và dùng Terminal để tạo chìa mới cho vùng tiếp theo",
  	 	 	 	"eng": "To progress to the next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "This is your personal computer. Although a little outdated, it can get the job done with enough patience",
+ 	 	 	 	"trans": "Đây là máy tính riêng của bạn, mặc dù hơi lỗi thởi, nó có thể làm xong việc với đủ sự kiên nhẫn",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need at least level 5 to access terminal",
+ 	 	 	 	"trans": "Bạn cần lên cấp 5 để vào Terminal",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	}
  	 	},
@@ -96,7 +96,7 @@
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need at least level 5 to access the bank",
+ 	 	 	 	"trans": "Bạn cần lên cấp 5 để vào ngân hàng",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	}
  	 	},
@@ -112,7 +112,7 @@
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bài đăng giao dịch của Lee",
+ 	 	 	 	"trans": "Nơi giao dịch của Lee",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
